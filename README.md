@@ -20,7 +20,7 @@ Ol√°, me chamo Yashiro tenho 15 anos e atualmente moro em Rio de Janeiro - Maca√
   <img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
-**Ferramentas Utils que uso diariamente/semanalmente:**
+**Ferramentas/Apps utils que uso diariamente/semanalmente:**
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
