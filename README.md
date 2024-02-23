@@ -1,6 +1,6 @@
 Olá, me chamo Yashiro tenho 15 anos e atualmente moro em Rio de Janeiro - Macaé. Me interesso bastante em coisas relacionadas à internet desde quando tinha 9 anos de idade, atualmente busco aprender mais e mais sobre programação. Não possuo conhecimento fixo e tals linguagens por isso estou aprendo todos os dias coisas novas...
 
-**Linguagens de Programação**
+*Linguagens de Programação*
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
