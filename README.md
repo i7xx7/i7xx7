@@ -2,14 +2,14 @@ Olá, me chamo Yashiro tenho 15 anos e atualmente moro em Rio de Janeiro - Maca�
 
 # Linguagens de Programação
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 # Frameowrks
 <div style="display: inline_block"><br>
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center"src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 # Bnaco de Dados
 <div style="display: inline_block"><br>
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Sqlite" height="30" width="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
