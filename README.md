@@ -27,4 +27,5 @@ Ol√°, me chamo Yashiro tenho 15 anos e atualmente moro em Rio de Janeiro - Maca√
   <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=i7xx7&show_icons=true&theme=radical">
