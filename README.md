@@ -30,3 +30,5 @@ Ol√°, me chamo Yashiro tenho 15 anos e atualmente moro em Rio de Janeiro - Maca√
 </div>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=i7xx7&show_icons=true&theme=radical">
+<br>
+<img align="center" src="https://komarev.com/ghpvc/?username=i7xx7">
