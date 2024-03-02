@@ -1,4 +1,4 @@
-# yashiro AKA i7xx7
+# i7xx7 AKA yashiro
 <img src="https://komarev.com/ghpvc/?username=i7xx7"/>
 
 Hi, my name is i7xx7, but my most popular nickname in internet is Yashiro.
